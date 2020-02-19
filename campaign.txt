@@ -1,0 +1,148 @@
+::::::::::::::::::::::::::::::::::::::::::
+:::::: Daemons and Their Caretakers ::::::
+::::::::::::::::::::::::::::::::::::::::::
+
+:: Prelude...
+
+At first you see only darkness. A pale red glow begins to take form around the corners of your blurry vision.
+
+The muffled sounds of war echo in the back of your head. Finally, after what seemed like an eternity, a voice you can only recognize as The Maker echoes in your ears.
+
+"Execute Alpha Tango Niner One One."
+
+The lights rise and you see yourself sitting in some kind of metal cage. The red glow is a siren that's pulsating about. Around this cage are ramps, ladders, and machining equipment. You're in some kind of garage with floating platforms all around you.
+
+To your right and left, other metal carcasses hold men and women in them.
+
+The voice continues, "While your vitals come online, you'll start to remember a great many things. The most crucial being that you're a cybernetic clone of the 412th Orbit-born. Built and bread for a single purpose."
+
+A holo-projection emits in the center of the garage, displaying the metal cage that you've been in. It seems to have arms and legs but it's form not at all human.
+
+"You are a Daemon pilot. The most advanced tactical assault vessel ever built. These machines are the key to the galactic ground war. As a Cyber, you can interface with them and give them proverbial life. You will remember your training as you make The Decent."
+
+You start to notice that the sounds of war are close. Very close. And coming from below you.
+
+A loud buzzing noise erupts. A moment later it stops. The red siren turns green as you feel a harness come down over you. Metal clangs and pistons hiss in writhing agony. A symphony only machines can produce. Controls that you recognize slide in front of your hands and the Daemon's chest closes it's hatches around you. A spinning latch seals you in. The harness attaches eight nodes to the back of your neck where metal diodes are exposed. Part of your cybernetics, you remember. A way to interface with this Daemon.
+
+Large screens fade in to reveal the view as though the chest never existed, save for a horizontal metal beam just above your console. An overlay of information is composited to give you information of yourself and your Daemon. Vitals, Ammunitions, Fuel, and more.
+
+All seems quiet for a moment. Eventually, the voice is heard again:
+
+"Go for Decent"
+
+On the left side of your new quarters a large trigger with the word DECEND decompresses. It awaits your input.
+
+-----------------------------------------------------
+
+PRESS THE BUTTON
+
+-----------------------------------------------------
+
+A thunderous roar emits, you look down and notice that the floor is giving way to reveal a planet below. Darakan. A mostly desert world containing deposits of the precious materials needed to power an interstellar fleet. You remember being briefed about this place.
+
+A moment later, you feel your body jolt with retro-gravity as your Daemon is hurdled downward. Splitting through the stratosphere, you look around you. It's nothing short of hell incarnate. Ships launching thousands of Daemons surround a massive cruiser.
+
+The monstrous ship, you recall, is a Peril Class capital ship, one of the four in Galactic Core fleet. It spans over 20 miles has no equal.
+
+"Prepare for briefing." Another voice enters your head. A map appears on your console. "Squads, select CO before landing, then meet up with Company B. The primary objective is to capture and maintain this refinery while the cavalry is on route. This is located approximately 25 miles south of your drop point. Orbital guns will assist you where possible but will be limited to lazed targets. You will-"
+
+Suddenly, splitting through the sky, you see an arc of what looks like a beam of lightning smash through and atomize the very ship you departed from. It explodes in spectacular fashion, damaging ships around it and rattling your Daemon.
+
+Your console reads "90 Seconds To Planet Side". Your HUD identifies the {N} Cybers in your squad.
+
+-----------------------------------------------------
+
+EXPLAIN DAEMON CONTROLS
+EXPLAIN WEAPONS -> Everyone gets default weapons
+EXPLAIN STATS   -> Everyone gets default states
+EXPLAIN VETERENCY      *
+EXPLAIN TACITION BONUS *
+EXPLAIN COMBAT / TACTICAL MOVE *
+EXPLAIN CO
+
+CO AUTOSELECT WITH TUTORIAL CAPTAN
+
+-----------------------------------------------------
+
+:: Planet Side
+
+The roar of your Daemon's retrograde thrusters give one final kick before you land on the ground, slamming down with the force of 4 tons of metal and weaponry.
+
+Before you can gather your thoughts a warning signal flashes on your HUD. In a deep, slightly electronic voice, your Daemon states, "Warning - Numerous enemies approach from the North. Proceed South to gain advantage of numbers"
+
+CO states that we move now. Firing up the thrusters and moving toward the south in a V formation. {formation is determined by party}.
+
+Before long we come to a fork. We can either continue South were there appears to be enemy's positioned along a ridge laying down artillery on the front, or South East which is a longer route where reports of ground force encampments have taken hold.
+
+BATTLE IT OUT {?}
+
+-----------------------------------------------------
+
+GET TO THE REFINTERY
+
+-----------------------------------------------------
+
+TAKE DOWN PLATTON
+
+-----------------------------------------------------
+
+Finally, the last missile battery explodes, leaving another smoke trail rising from the battlefield. The sounds of war momentarily give way to the absence of gunfire.
+
+A crackled voice comes over the comm network. "This is General Abrams of the PC-Centurm. We have taken the main stronghold and this Gate is now under the name of the Galactic Core Systems." The comms erupt in cheers.
+
+Unfortunately, they are very short lived.
+
+Looking up, a rip in space time has emerged. Visible from your Daemon on the ground you know it must be massive. Hundreds of miles across. The planet shakes at the torment of the laws of physics going on above.
+
+From this wormhole, a ship appears. Your senors state that it is at least 200 miles across as it flashes through.
+
+"What in the fuck is that?" John asks.
+
+"Alert! All stations prepare for battle! Weapons system on unidentified target appear primed. Centrum, make a jump as soon as possible! Get out of here!"
+
+A split second later, in the utter silence of space, you watch as arc cannons on the massive new vessel tear the Centrum in half. So bright is the lazer, that troops outside of their Daemons are instantly blinded.
+
+The explosion of the ship soon follows as you look on with horror. Fifty two thousand lives lost in less than a microsecond.
+
+"Centrum has been terminated. Immediate retreat. Repeat: fall back!" A new voice cries. You assume is now acting leader of this mission.
+
+The CO turns to the party. "I don't know what the fuck is going on but we need to get on a transport NOW. Move toward forward command and- GWUAHHHHHCCCHHHHHHHHHUUUU!!!" Spinning in your Daemon you see that a hulking sword shoved clean through John and his Daemon's chest. Lifted off the ground slightly, it's limp remains cast a horrible sight.
+
+From this sword you notice a matte black Daemon slowly shimmer into view. Only, this daemon is different. It's much more humanoid than your own. It's arms and limbs free to move as a humans would. It slowly pulls the blade from your former commanding officers chest and steps forward.
+
+"You are being cleansed." The Daemon's pilot states in a crude accent. "This Gate will be destroyed to protect the Great Beyond. You will never again look upon such a holy sight."
+
+-----------------------------------------------------
+
+ATTEMPT TO FIGHT, GET YOUR ASSES UTTERLY KICKED TO THE CURB
+
+-----------------------------------------------------
+
+"This planet will consume you. Do not let the thought of death worry you. The cleaning of your people was inevitable and we are more merciful than others." And with that, just as he shimmered in from his cloaking, he vanishes. Leaving you to look at the hellfire above and around. Trapped. Hundreds of ships and Daemons fall from the sky, streaking across the atmosphere.
+
+Eventually, the enormous ship aims it's arc cannons toward the very location you fought to reclaim.
+
+You begin to drift as your wounds and loss of blood finally catch up to you. Just before closing your eyes you hear a feint voice of an older gentlemen on the comms. "Hello? CRRRCHHH - Hello?! Is anyone alive down there?"
+
+-----------------------------------------------------
+
+------------------ END SESSION 1 ----------------------
+
+-----------------------------------------------------
+
+To Start:
+- Name
+- Class
+
+Classes:
+- Warrior
+- Smith
+- Prophet
+- Ranger
+- Assassin
+
+------------------------------------------------------
+
+WEAPONS
+
+- Class {A,...}
